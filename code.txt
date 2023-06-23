@@ -1,3 +1,3 @@
 This is code.txt file...
-Updateing code.txt through github
+Updating code.txt through github
 
